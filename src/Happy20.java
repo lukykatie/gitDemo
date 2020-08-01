@@ -7,6 +7,7 @@ public class Happy20 {
 String str = "Again?";
         System.out.println(str);
 
-        System.out.println(str);
+
+        //a brand new line is added
     }
 }
